@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Alfred 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open-Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
 
@@ -27,23 +27,20 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfy001&show_icons=true&theme=radical)
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=[YOUR_USERNAME]&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alfy001&theme=radical)](https://git.io/streak-stats)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfy001&layout=compact&theme=radical)
 
 <!-- Activity Graph -->
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=[YOUR_USERNAME]&theme=react-dark&hide_border=true&area=true)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alfy001&theme=react-dark&hide_border=true&area=true)
 
 ## 🏆 GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Alfy001&theme=onedark)
 
-## 🔥 Stack Overflow Activity
-<!-- StackOverflow Card -->
-[![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=[YOUR_STACKOVERFLOW_ID]&theme=dark)](https://stackoverflow.com/users/[YOUR_STACKOVERFLOW_ID])
 
 ## 🚀 Weekly Development Breakdown
 <!-- WakaTime Stats -->
